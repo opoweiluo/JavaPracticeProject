@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Runners>
+ <Runner Name="Tortoise">
+ <RunnersMoveIncrement>10</RunnersMoveIncrement>
+ <RestPercentage>0</RestPercentage>
+ </Runner>
+ <Runner Name="Hare">
+ <RunnersMoveIncrement>100</RunnersMoveIncrement>
+ <RestPercentage>90</RestPercentage>
+ </Runner>
+ <Runner Name="Dog">
+ <RunnersMoveIncrement>50</RunnersMoveIncrement>
+ <RestPercentage>70</RestPercentage>
+ </Runner>
+ <Runner Name="Cat">
+ <RunnersMoveIncrement>30</RunnersMoveIncrement>
+ <RestPercentage>75</RestPercentage>
+ </Runner>
+</Runners>
